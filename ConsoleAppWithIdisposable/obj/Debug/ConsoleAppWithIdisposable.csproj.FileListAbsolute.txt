@@ -1,0 +1,6 @@
+c:\users\devendrar\documents\visual studio 2015\Projects\ConsoleAppWithIdisposable\ConsoleAppWithIdisposable\bin\Debug\ConsoleAppWithIdisposable.exe.config
+c:\users\devendrar\documents\visual studio 2015\Projects\ConsoleAppWithIdisposable\ConsoleAppWithIdisposable\bin\Debug\ConsoleAppWithIdisposable.exe
+c:\users\devendrar\documents\visual studio 2015\Projects\ConsoleAppWithIdisposable\ConsoleAppWithIdisposable\bin\Debug\ConsoleAppWithIdisposable.pdb
+c:\users\devendrar\documents\visual studio 2015\Projects\ConsoleAppWithIdisposable\ConsoleAppWithIdisposable\obj\Debug\ConsoleAppWithIdisposable.csprojResolveAssemblyReference.cache
+c:\users\devendrar\documents\visual studio 2015\Projects\ConsoleAppWithIdisposable\ConsoleAppWithIdisposable\obj\Debug\ConsoleAppWithIdisposable.exe
+c:\users\devendrar\documents\visual studio 2015\Projects\ConsoleAppWithIdisposable\ConsoleAppWithIdisposable\obj\Debug\ConsoleAppWithIdisposable.pdb
